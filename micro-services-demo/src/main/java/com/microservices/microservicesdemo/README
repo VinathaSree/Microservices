@@ -1,0 +1,11 @@
+TOPICS WE HAVE LEARNT
+//*CUSTOM EXCEPTION AND HANDLING IT*//
+//*CONTENT NEGOTIATION*//
+1. Telling the uri what type of data we want like either in the form of JSON or XML.
+2. This can be done in 2 types
+(i) Passing as Parameters in the URI
+(ii) HTTP headers
+3. this can achieved by WebConfig class that we have written
+//*DATA FILTERING*//
+1.Json ignore annotation
+2.json ignore properties annotation
